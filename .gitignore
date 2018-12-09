@@ -3,3 +3,9 @@
 ################################################################################
 
 *.ide-wal
+*.ide-shm
+*.lock
+*.ide
+*.suo
+/remove_string_from_files/bin/Debug
+/remove_string_from_files/obj/x86/Debug
